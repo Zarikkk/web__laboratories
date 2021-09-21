@@ -1,0 +1,69 @@
+.bottom__container {
+    width: 1600px;
+    height: 920px;
+    background-color:#F3F8FE;
+    margin-left: 100px;
+    margin-right: 0px;
+}
+.blue__window {
+    width: 1120px;
+    height: 425px;
+    position: relative;
+    top: 140px;
+    left: 120px;
+    background:linear-gradient(-90deg, #67C3F3, #5A98F2);
+    border: 1px solid transparent;
+    border-radius: 15px;
+    
+}
+
+.bw__title {
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    padding-top: 75px;
+    margin-top: 0px;
+    margin-bottom: 26px;
+}
+
+.bottom__hr__wrapper {
+    margin-left: 534px;
+}
+
+.blue__window img {
+    border-radius: 100px;
+    border: 5px solid white;
+    position: relative;
+    top: 70px;
+    left: 122px
+}
+
+.customer__name {
+    color: white;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 181px;
+    height: 22px;
+    line-height: 25px;
+    position: relative;
+    left: 289.6px;
+    top: -47px;
+}
+
+.text__item {
+    color: white;
+    position: relative;
+    left: 289.6px;
+    top: -47px;
+}
+
+.bw__paragraph {
+    width: 391px;
+    height: 109px;
+    color: white;
+    line-height: 30px;
+    position: relative;
+    left: 582.5px;
+    top: -145px;
+}

@@ -1,0 +1,41 @@
+
+.hero__inner {
+    padding-top: 214px;
+    /* padding-left: 193.13px; */
+}
+
+.hero__title {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 241.66px;
+    height: 82.27px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 32px;
+}
+
+.hero__paragraph {
+    width: 360.14px;
+    height: 107.33px;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 43.91px;
+}
+
+.hero__inner img {
+    position: fixed;
+    margin-top: -5%;
+    position: relative;
+    width: 665px;
+    height: 434px;
+    float: right;
+}
+
+.hr__wrapper {
+    width: 56px;
+    padding-bottom: 39px;
+    margin: 0px;
+}
+

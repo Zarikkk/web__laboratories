@@ -1,0 +1,66 @@
+body {
+    font-family: "Mulish", "Arial", sans-serif;
+    color: black;
+}
+
+.general {
+    width: 1246px;
+    padding-left: 190px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+a1{
+    font-weight: 800;
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: block;
+}
+
+.default__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border-style: solid;
+    border-color: #458FF6;
+    border-radius: 30px;
+    color: #458FF6;
+    width: 200px;
+    height: 56px;
+}
+
+.default__button p {
+    font-weight: 900px;
+    padding-bottom: 3px;
+    padding-left: 16px;
+}
+
+.read__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border: none;
+    color: #458FF6;
+    width: 200px;
+    height: 56px;
+    padding-top: 65px;
+    margin-left: -42px;
+}
+
+.read__button p1 {
+    font-weight: 900;
+    padding-left: 16px;
+}
